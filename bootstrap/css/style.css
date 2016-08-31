@@ -3,19 +3,21 @@ body{
 }
 .tophead{
 	background-color: #210124;
-	color: white;
+	color: white
 }
 
 .profileimg img {
 	height: 120px;
-	width: 120px;
+	width: 120px
 }
 .toppart{
 	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 50px
 }
 hr{
 	border: 1px solid blue;
-	width: 80px
+	width: 100px
 }
-
+.btn{
+	border: 2px solid green;
+}
